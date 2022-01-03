@@ -51,7 +51,7 @@
 
 ______________________________________________
 
-## TINY  Language Regular Expressions
+## TINY Language Regular Expressions
 
 digit ::= 0|1|2|3|4......|9
 
