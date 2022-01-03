@@ -5,13 +5,13 @@
 - [TINY Programming Language](#tiny-programming-language)
   - [Language Description](#language-description)
 - [TINY Language Regular Expressions](#tiny-language-regular-expressions)
-- [TINY Language Deterministic Finite Automaton (DFA)](#tiny-language-deterministic-finite-automaton-(dfa))
-- [TINY Language Context Free Grammar (CFG)](#tiny-language-context-free-grammar-(cfg))
+- [TINY Language Deterministic Finite Automaton DFA](#tiny-language-deterministic-finite-automaton-dfa)
+- [TINY Language Context Free Grammar CFG](#tiny-language-context-free-grammar-cfg)
 - [TINY Code Samples](#tiny-code-samples)
   - [Sample program includes all 30 rules](#sample-program-includes-all-30-rules)
   - [Sample program in Tiny language – computes factorial](#sample-program-in-tiny-language-–-computes-factorial)
 
-## TINY Programming 
+## TINY Programming Language
 
 > A program in TINY consists of a set of functions (any number of functions and ends with a main function), each function is a sequence of statements including (declaration, assignment, write, read, if, repeat, function, comment, …) each statement consists of (number, string, identifier, expression, condition, …).
 
@@ -86,7 +86,7 @@ Boolean_Operator ::= && | \|\|
 
 ______________________________________________
 
-## TINY Language Deterministic Finite Automaton (DFA)
+## TINY Language Deterministic Finite Automaton DFA
 
 - Strings
 
@@ -116,7 +116,7 @@ ______________________________________________
 
 ______________________________________________
 
-## TINY Language Context Free Grammar (CFG)
+## TINY Language Context Free Grammar CFG
 
 - Program → Program_Function_Statement Main_Function
 
