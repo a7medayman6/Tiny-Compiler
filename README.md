@@ -17,7 +17,7 @@
 
 ### Language Description
 
-- Number: any sequence of digits and maybe floats (e.g. 123 | 554 | 205 | 0.23 | …)
+- Number: any sequence of digits and maybe floats (e.g. 123 \| 554 \| 205 \| 0.23 \| …)
 - String: starts with double quotes followed by any combination of characters and digits then ends with double quotes (e.g. “Hello” | “2nd + 3rd” | …)
 - Reserved_Keywords: int | float | string | read | write | repeat | until | if | elseif | else | then | return | endl
 - Comment_Statement: starts with /* followed by any combination of characters and digits then ends with */ (e.g. /*this is a comment*/ | …)
