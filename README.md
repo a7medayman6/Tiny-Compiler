@@ -198,7 +198,7 @@ ______________________________________________
 
 ### Sample program includes all 30 rules
 
-```tiny
+```cpp
 int sum(int a, int b)
 {
 	return a + b;
@@ -250,7 +250,7 @@ int main()
 
 ### Sample program in Tiny language – computes factorial
 
-```tiny
+```cpp
 /* Sample program in Tiny language – computes factorial*/
 int main()
 {
