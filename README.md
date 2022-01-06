@@ -1,4 +1,4 @@
-# (Tiny Programming Language Compiler](https://a7medayman6.github.io/Tiny-Compiler/)
+# [Tiny Programming Language Compiler](https://a7medayman6.github.io/Tiny-Compiler/)
 
 **Compiler for the TINY Programming Language described in [Language Description](Language-Description.md).**
 
